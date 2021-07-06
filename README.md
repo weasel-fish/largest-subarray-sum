@@ -35,7 +35,7 @@ If you have not yet worked on this problem yet, and by that we mean spending ove
 
 You can come back to this later, but we won't help too much.  Still you can find a main hint below.
 
-The main hint is that this is a type of greedy algorithm.  It's a new type of algorithm that we did not get a chance to explore.  All a greedy algorithm means, is that even before processing all possible information, you can make begin to make decisions.  Your goal is to try not to regret making the decision at a later time.  
+The main hint is that this is a type of greedy algorithm.  It's a new type of algorithm that we did not get a chance to explore.  All a greedy algorithm means, is that even before processing all possible information, you can begin to make decisions.  Your goal is to try not to regret making the decision at a later time.  
 
 So, here a way to apply a greedy approach is to try to determine if a sequence is a potential maximum contiguous subarray even before reading through the entire array.  Another mechanism is to think about when one can immediately dispose of a sequence as being a potential sequence, even before reading through the entire array.
 
