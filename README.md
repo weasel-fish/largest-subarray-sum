@@ -27,7 +27,7 @@ Use it as a mechanism to focus on process, and work with a partner, if you can. 
 
 A couple small hints to get started: where are some examples where the solution becomes obvious.  What can you learn from it.  Ok that's enough.  
 
-Be self-aware about when your process.  When is your process good, and when it is less sucessful?  We are trying to be disciplined about developing good habits as much as anything else. 
+Be self-aware about when your process.  When is your process good, and when it is less successful?  We are trying to be disciplined about developing good habits as much as anything else. 
 
 ### A couple more hints for those who have first struggled
 
